@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruity Facts</string>
+    <string name="title_activity_detail">Fruit Details</string>
+</resources>

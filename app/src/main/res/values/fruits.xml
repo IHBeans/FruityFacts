@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Grapes</item>
+        <item>Kiwi</item>
+        <item>Orange</item>
+        <item>Peach</item>
+        <item>Pear</item>
+        <item>Plum</item>
+        <item>Strawberries</item>
+    </string-array>
+</resources>
+
+<!-- This file specifies the items in the listview in the main activity -->
